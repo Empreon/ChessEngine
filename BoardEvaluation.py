@@ -1,6 +1,6 @@
 import chess
 
-from PieceData import pieceDataBase
+from PieceData import PieceDataBase
 
 # https://andreasstckl.medium.com/writing-a-chess-program-in-one-day-30daff4610ec
 def evaluation(board):

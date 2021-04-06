@@ -1,4 +1,4 @@
-class pieceDataBase:
+class PieceDataBase:
     # https: // www.chessprogramming.org / Simplified_Evaluation_Function
 
     pawnValue = 100
